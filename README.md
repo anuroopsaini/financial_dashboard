@@ -75,7 +75,7 @@ Predictions are made using a linear regression model trained on your historical 
 
 📄 License
 
-MIT License. Feel free to use and adapt it for your needs.
+BSD Clause3 License.
 
 
 
